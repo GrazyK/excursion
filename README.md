@@ -6,6 +6,6 @@ Codecademy Full Stack Course
 
 Tools
 
- Visual Studio Code
- Git  
- Github
+ * Visual Studio Code
+ * Git  
+ * Github
